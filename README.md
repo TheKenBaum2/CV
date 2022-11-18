@@ -1,2 +1,2 @@
 # CV
-# The website I use as my CV.
+The website I use as my CV.
