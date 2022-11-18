@@ -1,0 +1,117 @@
+body {
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	margin: 0px;
+	background-color: #EFF5F5;
+	font-size: 120%;
+}
+h1 {
+	font-family: 'Sacramento', cursive;
+	font-size: 5.625em;
+	margin: 4px auto 0px auto;
+}
+h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+h3 {
+	font-family: 'Montserrat', sans-serif;
+}
+.title {
+	color: #3C4048;
+	position: relative;
+	font-family: 'Sacramento', cursive;
+}
+.sub-title {
+	color: #3C4048;
+	position: relative;
+	font-family: 'Montserrat', sans-serif;
+	bottom: 20px;
+	font-size: 1.4em;
+}
+.underline {
+	text-decoration: underline;
+}
+.bottom-cloud {
+	position: absolute;
+	width: 8%;
+}
+.top-cloud {
+	position: relative;
+	padding-top: 20px;
+	left: 200px;
+	top: 20px;
+	width: 8%;
+}
+.mountain {
+	position: relative;
+	top: 5px;
+	width: 35%;
+
+}
+.top-container {
+	position: relative;
+	background-color: #00ABB3;
+	border-color: black;
+	border-style: solid;
+	border-width: 2px 0px 2px 0px;
+}
+.circular {
+	border-radius: 100%;
+}
+.solid {
+	border-color: black;
+	border-style: solid;
+	border-width: 2px;
+}
+.gray {
+	background-color: #B2B2B2;
+}
+.rpg {
+	margin: 26px auto 0px auto;
+	width: 100%;
+	border-width: 2px;
+}
+.skill {
+	padding: 10px;
+	margin: 0px 8px;
+	width: 12%;
+	height: 12%;
+}
+.skill:hover {
+	background-color: #3C4048;
+}
+.middle-container {
+	margin: 8px auto;
+}
+.cat:hover {
+	background-color: #CC0000
+}
+.cat {
+	height: 6%;
+	width: 6%;
+}
+.bottom-container {
+	padding: 2px;
+	background-color: #C0C0C0;
+	margin: 0px;
+}
+.skills-row {
+	width: 50%;
+	margin: 100px auto;
+}
+.left-align {
+	text-align: left;
+	line-height: 2;
+}
+.no-top-bottom-margin {
+	margin: 0px 16px 16px 16px;
+}
+.small {
+	font-size: 90%;
+}
+.float-left {
+	float: left;
+}
+.clear {
+	clear: left;
+}
